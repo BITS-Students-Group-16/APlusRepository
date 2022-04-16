@@ -1,0 +1,39 @@
+Transformation to Enterprise DevOps culture  - Slide 135
+
+
+to pull yet:Ops group..
+distributed version control Vs Centralized version control..
+
+dlog(2^2 x 3^4) = (dlog (2^2) + dlog (3^4)) mod 18  
+		= ( 2 * log 2 + 4 log 3)mod18
+= 2* 13 = 4 * 7 ) log 18
+= 26 + 28 ) mod 18
+= 54 mod 18 = 0 
+
+https://www.rapidtables.com/convert/number/ascii-hex-bin-dec-converter.html
+https://www.binaryhexconverter.com/hex-to-decimal-converter
+https://www.calculatorsoup.com/calculators/math/prime-factors.php
+https://www.mtholyoke.edu/courses/quenell/s2003/ma139/js/powermod.html
+https://getcalc.com/digital-bitwise-calculator.htm
+https://miniwebtool.com/first-n-prime-numbers/?number=80  
+GOKUL NARAYANAN G2:02 AM
+http://www.bluetulip.org/2014/programs/primitive.html
+
+[10/11, 22:47] Nagen??: http://cactus.io/resources/toolbox/decimal-binary-octal-hexadecimal-conversion
+
+https://www.rapidtables.com/convert/number/binary-to-hex.html?x=10010111
+
+https://onlinemathtools.com/test-prime-number
+
+https://www.calculatorsoup.com/calculators/math/prime-factors.php
+[10/11, 22:58] Nagen??: https://www.dcode.fr/euler-totient
+[10/11, 22:58] Nagen??: You can find euler's totient using this
+
+
+03 01     SSL version 3.1 (TLS 1.0)
+03 02     SSL version 3.2 (TLS 1.1)
+03 03     SSL version 3.3 (TLS 1.2)
+
+https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers
+ 
+https://www.iana.org/assignments/protocol-numbers/protocol-numbers.xhtml
