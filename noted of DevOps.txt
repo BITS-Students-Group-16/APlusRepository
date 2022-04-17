@@ -13,7 +13,8 @@ DevOps Consultant
 
 DevOps is a set of practices that combines software development and IT operations. It aims to shorten the systems development life cycle and provide continuous delivery with high software quality. DevOps is complementary with Agile software development; 
 
-Right approach - give examples of tools and tech stack as suggested by satish
+
+Right approach - give examples of tools and tech stack as suggested by satish - satish suggested to add both because apart from CI/CD we should know what is the tech stack for the coding part
 
 Configuration Management.
 Continuous Integration.
